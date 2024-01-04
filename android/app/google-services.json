@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "890003565443",
+    "project_id": "bfirebase-c9b30",
+    "storage_bucket": "bfirebase-c9b30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890003565443:android:483160c99cedc12af3e4b6",
+        "android_client_info": {
+          "package_name": "com.flutter.todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNVp15LTNllGcnuzuI2v-f4Y9fXvGSeGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
