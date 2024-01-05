@@ -5,7 +5,6 @@ import 'package:page_transition/page_transition.dart';
 import 'package:todo_app/screens/forgot_pw_page.dart';
 import '../widgets/add_task_dialog.dart';
 import 'tasks.dart';
-// import 'categories.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({Key? key}) : super(key: key);

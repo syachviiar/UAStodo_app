@@ -1,5 +1,3 @@
-// ignore_for_file: unnecessary_import
-
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
@@ -43,13 +41,6 @@ class _TasksState extends State<Tasks> {
                   decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(8),
                     color: Colors.grey[350],
-                    // boxShadow: const [
-                    //   BoxShadow(
-                    //     color: AppColors.shadowColor,
-                    //     blurRadius: 5.0,
-                    //     offset: Offset(0, 5), // shadow direction: bottom right
-                    //   ),
-                    // ],
                   ),
                   child: Center(
                     child: ListTile(
