@@ -102,8 +102,7 @@ class _AddTaskAlertDialogState extends State<AddTaskAlertDialog> {
                       dropdownDecoration: BoxDecoration(
                         borderRadius: BorderRadius.circular(15),
                       ),
-                      // validator: (value) => value == null
-                      //     ? 'Please select the task tag' : null,
+                      
                       items: taskTags
                           .map(
                             (item) => DropdownMenuItem<String>(
