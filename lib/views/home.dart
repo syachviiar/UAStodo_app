@@ -141,9 +141,6 @@ class _HomeScreenState extends State<HomeScreen> {
           Center(
             child: Tasks(),
           ),
-          // Center(
-          //   child: Categories(),
-          // ),
         ],
       ),
     );

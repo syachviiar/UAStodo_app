@@ -100,8 +100,7 @@ class _LoginPageState extends State<LoginPage> {
                 mainAxisSize: MainAxisSize.min,
                 children: <Widget>[
                   Lottie.network(
-                    'https://lottie.host/6c1e5ef6-9f9c-41ec-9ca0-c6a69c17d2ef/6WWjVx14Bf.json', // Replace with your Lottie animation file path
-                    // width: 300,
+                    'https://lottie.host/6c1e5ef6-9f9c-41ec-9ca0-c6a69c17d2ef/6WWjVx14Bf.json',
                     height: 100,
                     fit: BoxFit.contain,
                   ),
@@ -173,7 +172,6 @@ class _LoginPageState extends State<LoginPage> {
                     ),
                   ),
 
-                  // or continue with
                   const SizedBox(height: 20.0),
 
                   Padding(

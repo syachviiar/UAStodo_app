@@ -2,7 +2,6 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:todo_app/widgets/update_task_dialog.dart';
-
 import '../themes/colors.dart';
 import '../widgets/delete_task_dialog.dart';
 

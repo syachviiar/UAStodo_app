@@ -9,7 +9,5 @@ class AppColors {
 }
 
 var primaryColor = const Color.fromARGB(240, 147, 16, 16);
-
 var secondaryColor = const Color.fromARGB(109, 140, 94, 91);
-
 var greyColor = Colors.grey[900];
